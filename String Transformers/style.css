@@ -1,0 +1,23 @@
+* {
+    box-sizing: border-box;
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+form {
+    position: relative;
+    text-align: center;
+}
+
+.gg {
+    background-color: rgba(212, 223, 223, 0.637);
+    position: relative;
+    margin: 1.5rem 0;
+    font-size: 1.2rem;
+    margin-left: 6rem;
+    margin-right: 6rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}

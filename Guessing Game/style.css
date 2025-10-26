@@ -1,0 +1,21 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.input-box{
+    margin-bottom: 10px;
+    padding: 5px 10px;
+}
+
+button {
+    padding: 8px 12px;
+}
+
+.start-btn :disabled{
+    cursor: not-allowed;
+}
